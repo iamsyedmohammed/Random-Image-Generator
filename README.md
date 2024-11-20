@@ -1,1 +1,1 @@
-"# Random-Image-Generator" 
+"# Random-Quote-Generator" 
